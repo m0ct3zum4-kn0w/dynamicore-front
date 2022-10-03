@@ -1,0 +1,8 @@
+{
+  "short_name": "React App - Dynamicore",
+  "name": "Dynamicore Test FullStack", 
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
